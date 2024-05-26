@@ -1,0 +1,82 @@
+
+Opcode error...abnormal termination!
+
+SI = 0  TI =0  PI =1
+TTC = 1  TLC =0
+------------------------------------------------------------------
+
+3 LITTLE PIGS WENT TO OS CLASS.         
+THE WOLF ATE ONE!                       
+2 LITTLE PIGS WENT TO OS CLASS.         
+THE WOLF ATE ONE!                       
+1 LITTLE PIGS WENT TO OS CLASS.         
+THE WOLF ATE ONE!                       
+CLASS DISMISSED!                        
+
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 24  TLC =7
+------------------------------------------------------------------
+
+
+Out of data error...abnormal termination!
+
+SI = 1  TI =0  PI =0
+TTC = 5  TLC =0
+------------------------------------------------------------------
+
+HELLO                                   
+CS-A                                    
+
+Line limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 7  TLC =2
+------------------------------------------------------------------
+
+
+Invalid Page fault...abnormal termination!
+
+SI = 0  TI =0  PI =3
+TTC = 1  TLC =0
+------------------------------------------------------------------
+
+*                                       
+*   *                                   
+*   *   *                               
+*   *                                   
+*                                       
+
+Time limit exceeded
+Line limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 538976353  TLC =808866392
+------------------------------------------------------------------
+
+CAT CAN EAT RAT                         
+RAT CAN NOT EAT CAT                     
+RAT CAN EAT RAT                         
+
+Time limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 11  TLC =3
+------------------------------------------------------------------
+
+   RAT                                  
+   SAT                                  
+   ON                                   
+   MAT                                  
+
+Time limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 19  TLC =4
+------------------------------------------------------------------
+
